@@ -1,5 +1,7 @@
-@charset "UTF-8";@import "https://moveitbrasil.ga/custom-imports/";@-webkit-keyframes 
-fadeIn{0%{opacity:0}to{opacity:1}}@keyframes 
+@charset "UTF-8";@import "https://moveitbrasil.ga/custom-imports/";
+@-webkit-keyframes 
+fadeIn{0%{opacity:0}to{opacity:1}}
+@keyframes 
 fadeIn{0%{opacity:0}to{opacity:1}}@-webkit-keyframes 
 bounceIn{0%,20%,40%,60%,80%,to{-webkit-animation-timing-function:
   cubic-bezier(.215,.61,.355,1);animation-timing-function:

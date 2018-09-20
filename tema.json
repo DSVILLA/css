@@ -2,7 +2,7 @@
 	"room": "Igreja Universal Wave",
 	"author": "MarcosXJ6",
 	"icon": null,
-	"css": "https://moveitbrasil.ga/wp-content/themes/hashone/_new-theme/style.css",
+	"css": "https://rawgit.com/DSVILLA/css/master/style.css",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,

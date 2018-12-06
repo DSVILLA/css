@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@import "https://rawgit.com/DSVILLA/css/master/custom-imports";
+@import "https://cdn.jsdelivr.net/gh/DSVILLA/css/custom-imports";
 
 @-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:1}}
 

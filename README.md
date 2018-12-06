@@ -1,4 +1,4 @@
 # css
 css plug
 teste
- link: @rcs=https://rawgit.com/DSVILLA/css/master/tema.json
+ link: @rcs=https://cdn.jsdelivr.net/gh/DSVILLA/css/tema.json

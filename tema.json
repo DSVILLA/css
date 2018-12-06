@@ -2,7 +2,7 @@
 	"room": "Igreja Universal Wave",
 	"author": "MarcosXJ6",
 	"icon": null,
-	"css": "https://rawgit.com/DSVILLA/css/master/style.css",
+	"css": "https://cdn.jsdelivr.net/gh/DSVILLA/css/style.css",
 	"rules": {
 		"allowAutorespond": true,
 		"allowAutowoot": true,
